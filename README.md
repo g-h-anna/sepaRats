@@ -1,7 +1,6 @@
 # Tracking Highly Similar Rat Instances under Heavy Occlusions: An Unsupervised Deep Generative Pipeline 
 
-Anna Gelencsér-Horváth and Kopácsi, László and Varga, Viktor and Keller, Dávid and Dobolyi, Árpád and Karacs, Kristóf and Lőrincz, András
-
+Anna Gelencsér-Horváth, László Kopácsi, Viktor Varga, Dávid Keller, Árpád Dobolyi, Kristóf Karacs, András Lőrincz
 
 Url: https://www.mdpi.com/2313-433X/8/4/109
 
